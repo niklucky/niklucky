@@ -1,4 +1,10 @@
-### Hi there 👋
+### Trying to keep a balance between the number of features and bugs
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=niklucky&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=niklucky&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=niklucky&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=niklucky&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=niklucky&theme=github)
 
 <!--
 **niklucky/niklucky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
